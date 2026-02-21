@@ -32,7 +32,8 @@ Complete data model for imaginary IoT devices online shop. This includes both no
 
 ## Conceptual diagram
 
-<img width="881" height="881" alt="final_conceptual" src="https://github.com/user-attachments/assets/7d854dfb-c68f-40cc-b44e-d9c461dd5db1" />
+<img width="881" height="881" alt="final_conceptual_diagram" src="https://github.com/user-attachments/assets/48aa0169-51bc-43d0-90b9-c7c4e24acfd4" />
+
 
 
 
