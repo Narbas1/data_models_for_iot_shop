@@ -17,20 +17,24 @@ Complete data model for imaginary IoT devices online shop. This includes both no
 - customer
 - order
 - payment
-- inventory
 - employee
 - product
+- deviceUnit
 - return
-- region
+- address
 - firmware
+- firmwareInstall
+- developmentParticipation
 - department
 - supplier
+- supplyAgreement
 
 
 ## Conceptual diagram
 
+<img width="881" height="881" alt="final_conceptual" src="https://github.com/user-attachments/assets/7d854dfb-c68f-40cc-b44e-d9c461dd5db1" />
 
-<img width="831" height="881" alt="conceptual" src="https://github.com/user-attachments/assets/f10ef388-b01d-44f8-85ca-b2b3ce1eba8d" />
+
 
 
 
