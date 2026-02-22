@@ -1,3 +1,5 @@
+model might be wrong, doing tests now
+
 # Project purpose
 
 Complete data model for imaginary IoT devices online shop. This includes both normalized schema for OLTP and denormalized schema for OLAP.
@@ -34,8 +36,9 @@ Complete data model for imaginary IoT devices online shop. This includes both no
 
 <img width="881" height="881" alt="final_conceptual_diagram" src="https://github.com/user-attachments/assets/48aa0169-51bc-43d0-90b9-c7c4e24acfd4" />
 
+## Physical diagram
 
-
+<img width="1395" height="924" alt="image" src="https://github.com/user-attachments/assets/4e1c2f6a-acbf-4e60-b3f8-d918abe5286e" />
 
 
 
