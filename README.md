@@ -7,7 +7,8 @@ Complete data model for imaginary IoT devices online shop. This includes both no
 
 ## How this business operates?
 
-- Orders IoT devices from single supplier
+- Orders IoT devices from multiple suppliers
+- Develops firmware for IoT devices
 - Writes firmware to the devices
 - Sells devices to customer either in retail or in bulk
 - Can issue returns in a certain time window for all order types
@@ -17,12 +18,12 @@ Complete data model for imaginary IoT devices online shop. This includes both no
 ## Tables
 
 - customer
-- order
+- orders
 - payment
 - employee
 - product
 - deviceUnit
-- return
+- order_return
 - address
 - firmware
 - firmwareInstall
